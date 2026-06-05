@@ -1,6 +1,7 @@
 #Project documentation files.
 
 PROBLEM STATEMENT
+
 Current pest detection and structural inspection methods are often manual, expensive, and time-consuming. Early signs of pest activity and structural damage may go unnoticed, resulting in increased repair costs. This project aims to develop a low-cost acoustic monitoring system that detects abnormal sounds and provides early alerts.
 
 EXISTING SYSTEM
