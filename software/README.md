@@ -2,6 +2,8 @@
 
  SOFTWARE REQUIREMENTS
 
+#software requirements
+
 1. Arduino IDE
 2. Python 3.x
 3. GitHub
@@ -15,8 +17,13 @@ ALGORITHM
 # Algorithm
 
 Step 1: Capture sound using microphone sensor.
+
 Step 2: Convert sound into digital signals.
+
 Step 3: Analyze the sound pattern.
+
 Step 4: Compare with predefined threshold values.
+
 Step 5: Detect pest activity or anomalies.
+
 Step 6: Generate alert through LED or buzzer.
