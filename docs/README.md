@@ -1,18 +1,18 @@
 #Project documentation files.
 
-#problem statement
+PROBLEM STATEMENT
 
 Current pest detection and structural inspection methods are often manual, expensive, and time-consuming. Early signs of pest activity and structural damage may go unnoticed, resulting in increased repair costs. This project aims to develop a low-cost acoustic monitoring system that detects abnormal sounds and provides early alerts.
 
-#existing system
+EXISTING SYSTEM
 
 Existing pest detection and structural monitoring systems use specialized sensors and inspection methods. These systems are often costly, require skilled operators, and are not suitable for small-scale users.
 
-#proposed system
+PROPOSED SYSTEM
 
 The proposed system uses a microphone sensor and microcontroller to continuously monitor environmental sounds. Acoustic signals are analyzed to identify pest activity and structural anomalies. When abnormal sounds are detected, the system generates alerts for early intervention.
 
-#user identification
+USER IDENTIFICATION
 
 Primary Users:
 - Farmers
@@ -24,7 +24,7 @@ Secondary Users:
 - Maintenance Engineers
 - Building Inspectors
 
-#methodology
+METHODOLOGY
 
 1. Capture sound using a microphone sensor.
 2. Process and analyze the audio signals.
