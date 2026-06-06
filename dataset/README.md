@@ -1,7 +1,5 @@
 #Audio recordings and datasets.
 
-DATASET DESCRIPTION
-
 # Dataset Description
 
 The dataset consists of recorded audio samples including:
